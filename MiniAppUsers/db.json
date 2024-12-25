@@ -1,0 +1,26 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Learn Json"
+    },
+    {
+      "id": 2,
+      "name": "Learn React"
+    },
+    {
+      "id": 3,
+      "name": "Learn Glitch"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Alice"
+    },
+    {
+      "id": 2,
+      "name": "Bob"
+    }
+  ]
+}
